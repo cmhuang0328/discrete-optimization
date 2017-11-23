@@ -1,0 +1,19 @@
+#Problem7.dat
+#Author:Chien-Ming Huang
+
+param Investment := 100;
+
+param:
+P: Profit Cost :=
+A        30		16
+B		 25		15
+C 		 5		2
+D 		 9		4
+E 		 11 	4
+F	  	 7		3
+G 		 14		9
+H 		 19  	12
+I 		 40 	29
+J 	 	 29	 	20
+K 	 	 30 	18
+L	 	 34 	25;

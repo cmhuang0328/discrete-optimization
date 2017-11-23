@@ -1,0 +1,9 @@
+param roll_width := 24 ;
+
+param: WIDTHS: orders :=
+          3     12300
+          5     9800
+          12    3600
+          7     5750
+          8     15250 
+          9		6700  ;
